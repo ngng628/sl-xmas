@@ -1,5 +1,8 @@
 # sl-xmas
 
+![xmas2](https://user-images.githubusercontent.com/31023138/147377287-9522afbe-f38f-4327-9ede-eec34378cfbf.gif)
+
+
 ## Installation
 
 ```sh
